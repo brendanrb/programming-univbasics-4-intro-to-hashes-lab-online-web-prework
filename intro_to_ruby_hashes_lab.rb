@@ -14,5 +14,5 @@ def id_generator
   {:id => 4}
 end
 
-def my_hash_creator(1,2)
+def my_hash_creator
 end
