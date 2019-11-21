@@ -20,6 +20,6 @@ def my_hash_creator(name, game)
 end
 
 def read_from_hash(name: "Steve", "Tzvi")
-  {name => "Steve"}
+  {name: => "Steve"}
   
 end
