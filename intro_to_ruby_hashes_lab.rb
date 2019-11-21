@@ -16,6 +16,5 @@ end
 
 def my_hash_creator(name, 'Grace Hopper')
   
-  {:#{1} => 2}  
-
+  {1 =>2}
 end
