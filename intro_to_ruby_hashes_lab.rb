@@ -16,4 +16,5 @@ end
 
 def my_hash_creator
   {name: 'Grace Hopper'}
+  my_hash_creator
 end
