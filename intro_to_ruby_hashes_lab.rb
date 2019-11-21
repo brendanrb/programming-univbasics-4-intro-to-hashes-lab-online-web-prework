@@ -15,6 +15,6 @@ def id_generator
 end
 
 def my_hash_creator(fucking, stupid)
-  {:fucking => 'stupid'}  
+  {:name => 'Grace Hopper'}  
 
 end
