@@ -16,6 +16,6 @@ end
 
 def my_hash_creator(name, game)
   
-  {:name => game}
+  {name => game}
 end
 
