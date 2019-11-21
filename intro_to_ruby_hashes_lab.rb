@@ -15,5 +15,5 @@ def id_generator
 end
 
 def my_hash_creator
-  {name, ""
+  {name: 'Grace Hopper'
 end
