@@ -14,7 +14,7 @@ def id_generator
   {:id => 4}
 end
 
-def my_hash_creator(:name, game)
+def my_hash_creator(name, game)
   
   {:name => game}
 end
