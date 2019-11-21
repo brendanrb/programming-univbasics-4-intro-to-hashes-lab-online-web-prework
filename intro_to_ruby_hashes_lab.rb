@@ -19,6 +19,6 @@ def my_hash_creator(name, game)
   {name => game}
 end
 
-def read_from_hash(name, whatever)
+def read_from_hash(:name=> whatever, "name")
   
 end
