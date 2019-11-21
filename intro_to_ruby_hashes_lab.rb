@@ -14,6 +14,9 @@ def id_generator
   {:id => 4}
 end
 
-def my_hash_creator
+def my_hash_creator()
   pioneer
 end
+
+def read_from_hash()
+  
