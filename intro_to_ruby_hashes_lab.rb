@@ -18,3 +18,6 @@ def my_hash_creator(name, game)
   
   {name => game}
 end
+
+def read_from_hash (fuck=>this, whatever)
+end
