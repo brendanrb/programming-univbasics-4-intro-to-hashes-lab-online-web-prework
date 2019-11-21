@@ -16,6 +16,6 @@ end
 
 def my_hash_creator(fucking, stupid)
   
-  {:name => 'Grace Hopper'}  
+  {1 => 2}  
 
 end
