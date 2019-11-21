@@ -15,5 +15,6 @@ def id_generator
 end
 
 def my_hash_creator
-  pioneer[:name]
+  {:name => 'Grace Hopper'}
+  :name
 end
